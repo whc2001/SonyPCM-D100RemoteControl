@@ -30,3 +30,17 @@ Uses [standard 20-bit SIRC protocol](https://www.sbprojects.net/knowledge/ir/sir
 Record button press on channel CH1
 
 ![sony-ir](https://user-images.githubusercontent.com/16266909/98818490-9d583580-2466-11eb-97ff-9048ba79856c.png)
+
+
+## Remote socket pinout
+
+Standard 3.5mm 4-pole mini jack
+
+|Segment|Usage|Remark|
+|-|-|-|
+|Tip|Record LED indicator signal|Active low. Flashing when record paused, light up when recording is in progress.|
+|Ring close to tip|IR signal||
+|Ring close to sleeve|Ground||
+|Sleeve|Power for IR receiver|DC3V|
+
+![receiver](https://user-images.githubusercontent.com/16266909/98822431-cfb86180-246b-11eb-9930-f27998b66475.jpg)

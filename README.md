@@ -29,7 +29,7 @@ Uses [standard 20-bit SIRC protocol](https://www.sbprojects.net/knowledge/ir/sir
 ### Example
 Record button press on channel CH1
 
-![sony-ir](assets/logic.jpg)
+![sony-ir](assets/logic.png)
 
 
 ## Remote socket pinout

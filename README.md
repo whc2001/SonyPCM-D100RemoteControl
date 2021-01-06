@@ -29,7 +29,7 @@ Uses [standard 20-bit SIRC protocol](https://www.sbprojects.net/knowledge/ir/sir
 ### Example
 Record button press on channel CH1
 
-![sony-ir](https://user-images.githubusercontent.com/16266909/98818490-9d583580-2466-11eb-97ff-9048ba79856c.png)
+![sony-ir](assets/logic.jpg)
 
 
 ## Remote socket pinout
@@ -43,4 +43,4 @@ Standard 3.5mm 4-pole mini jack
 |Ring close to sleeve|Ground||
 |Sleeve|Power for IR receiver|DC3V|
 
-![receiver](https://user-images.githubusercontent.com/16266909/98822431-cfb86180-246b-11eb-9930-f27998b66475.jpg)
+![receiver](assets/pinout.jpg)
